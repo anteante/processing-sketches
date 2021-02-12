@@ -57,7 +57,7 @@ public void draw() {
   i++;
   }
 
-// Saves a TIFF file named "diagonal.tif"
+// Saves a PNG"
 save("city.png");
 }
 
